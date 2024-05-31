@@ -9,4 +9,5 @@ export default defineConfig({
     outDir: 'dist',
     assetsDir: 'assets',
   },
+  base: "/threejs/"
 })
